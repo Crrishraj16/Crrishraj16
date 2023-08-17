@@ -50,28 +50,9 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Crrishraj16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Crrishraj16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31zlxreehu7r6ykciqzpn3zjxdum">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-Authenticated as 31b7ozog5qy4x75fltrhieeoql3y
-Markdown code snippet:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y)
-For custom count (1 ≤ {count} ≤ 10):
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y&count={count})
-For custom width (300 ≤ {width} ≤ 1000):
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y&width={width})
-For unique tracks :
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y&unique={true|1|on|yes})
-
