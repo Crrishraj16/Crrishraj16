@@ -64,3 +64,14 @@
 </div>
 
 ###
+
+Authenticated as 31b7ozog5qy4x75fltrhieeoql3y
+Markdown code snippet:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y)
+For custom count (1 ≤ {count} ≤ 10):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y&count={count})
+For custom width (300 ≤ {width} ≤ 1000):
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y&width={width})
+For unique tracks :
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31b7ozog5qy4x75fltrhieeoql3y&unique={true|1|on|yes})
+
