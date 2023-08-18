@@ -1,9 +1,5 @@
 
-<style>
-    .rounded-image {
-        border-radius: 50%;
-    }
-</style>
+
 
 <h1 align="center">Hi 👋, I'm Crrishraj Umedsinh Chavda</h1>
 <h3 align="center">A passionate Multi-Faceted Artist and Learner from India</h3>
