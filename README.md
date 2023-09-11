@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <p align="center">
-    <a href="https://codepen.io/crrishraj16" target="_blank"><img align="center" class="rounded-image" src="https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png" alt="crrishraj16" height="40" width="40" /></a>
+    <a href="https://codepen.io/crrishraj16" target="_blank"><img align="center" class="rounded-image" src="https://assets.codepen.io/1584356/codepen.png" alt="crrishraj16" height="40" width="40" /></a>
     <a href="https://twitter.com/crrishraj_16" target="_blank"><img align="center" class="rounded-image" src="https://e1.pngegg.com/pngimages/409/65/png-clipart-simply-styled-icon-set-731-icons-free-twitter-twitter-logo-thumbnail.png" alt="crrishraj" height="40" width="40" /></a>
     <a href="https://linkedin.com/in/crrishraj-chavda-810b7a278" target="_blank"><img align="center" class="rounded-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="crrishraj-chavda-810b7a278" height="40" width="40" /></a>
     <a href="https://kaggle.com/crrishrajchavda" target="_blank"><img align="center" class="rounded-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EWhyL7bVZZIJJAGgv0pg5jm4uuhbol3nAr2S4qJ15fKQpL_aqByorA_AA0_hftFBfng&usqp=CAU" alt="crrishrajchavda" height="40" width="40" /></a>
