@@ -1,54 +1,28 @@
+# 💫 About Me:
+A passionate Multi-Faceted Artist and Learner from India
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/crrishraj.chavda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/crrishrajsinh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/crrishraj-chavda-810b7a278) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Crrishraj16) 
 
-<h1 align="center">Hi 👋, I'm Crrishraj Umedsinh Chavda</h1>
-<h3 align="center">A passionate Multi-Faceted Artist and Learner from India</h3>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Crrishraj16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Crrishraj16&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Crrishraj16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **C++, Javascript, Python etc.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Crrishraj16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **crrishraj.work@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <p align="center">
-    <a href="https://codepen.io/crrishraj16" target="_blank"><img align="center" class="rounded-image" src="https://assets.codepen.io/1584356/codepen.png" alt="crrishraj16" height="40" width="40" /></a>
-    <a href="https://twitter.com/crrishraj_16" target="_blank"><img align="center" class="rounded-image" src="https://e1.pngegg.com/pngimages/409/65/png-clipart-simply-styled-icon-set-731-icons-free-twitter-twitter-logo-thumbnail.png" alt="crrishraj" height="40" width="40" /></a>
-    <a href="https://linkedin.com/in/crrishraj-chavda-810b7a278" target="_blank"><img align="center" class="rounded-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="crrishraj-chavda-810b7a278" height="40" width="40" /></a>
-    <a href="https://kaggle.com/crrishrajchavda" target="_blank"><img align="center" class="rounded-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8EWhyL7bVZZIJJAGgv0pg5jm4uuhbol3nAr2S4qJ15fKQpL_aqByorA_AA0_hftFBfng&usqp=CAU" alt="crrishrajchavda" height="40" width="40" /></a>
-    <a href="https://fb.com/crrishraj.chavda" target="_blank"><img align="center" class="rounded-image" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1024px-Facebook_f_logo_%282021%29.svg.png?20210818083032" alt="crrishraj.chavda" height="40" width="40" /></a>
-    <a href="https://instagram.com/crrishrj.jpeg" target="_blank"><img align="center" class="rounded-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="crrishrj.jpeg" height="40" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Crrishraj16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" class="rounded-image"> 
-    <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png"
-    alt="c" width="40" height="40" />
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">Link to C++ Tutorial</a>
-<img
-            src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/HTML5_Shiny_Icon.svg/1024px-HTML5_Shiny_Icon.svg.png"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-        rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> 
-               <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
-            alt="python" width="40" height="40" /> </a> </p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/crrishrajwP) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CrrishrajC) 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/crrishrajwP"> <img align="left"
-            src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="crrishrajwP" /></a></p><br><br>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
